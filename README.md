@@ -6,7 +6,8 @@ Notebook zawiera zarówno obróbkę danych, jak i wizualizacje, które pokazują
 ---
 
 ## 🗂️ Zawartość repozytorium
-- `KPO.ipynb` – główny notebook z analizą i wizualizacjami  
+- `KPO.ipynb` – główny notebook z analizą i wizualizacjami
+- `HoReCa.kml` - plik z danymi do obróbki
 
 ---
 
